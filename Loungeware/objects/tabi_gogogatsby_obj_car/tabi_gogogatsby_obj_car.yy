@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "makoren_conjurer_obj_pedestal",
+  "name": "tabi_gogogatsby_obj_car",
   "spriteId": {
-    "name": "makoren_conjurer_spr_pedestal",
-    "path": "sprites/makoren_conjurer_spr_pedestal/makoren_conjurer_spr_pedestal.yy",
+    "name": "tabi_gogogatsby_spr_car",
+    "path": "sprites/tabi_gogogatsby_spr_car/tabi_gogogatsby_spr_car.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,11 +24,14 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "makoren_conjurer",
-    "path": "folders/Microgames/Makoren/makoren_conjurer.yy",
+    "name": "tabi",
+    "path": "folders/Microgames/tabi.yy",
   },
 }
